@@ -26,11 +26,11 @@ Work experience
     * Supervisor: Prof. Sinno Jialin Pan. 
 * Project Officer, Rapid-Rich Object Search (ROSE) Lab, School of Electrical and Electronic Engineering, Nanyang Technological University, Aug 2016 - Apr 2017
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 Skills
 ======
