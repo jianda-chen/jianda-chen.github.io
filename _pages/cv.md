@@ -11,35 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Nanyang Technological University, Jul 2017 - Jan 2023 [cite: 4]
+    * School of Computer Science and Engineering [cite: 4]
+    * Advisor: Prof. Sinno Jialin Pan [cite: 4]
+* B.E. in Software Engineering, Sun Yat-sen University, Sep 2012 - Jul 2016 [cite: 4, 5]
+    * School of Data and Computer Science [cite: 5]
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Fellow, Future-Oriented Continentalś Urban Society (FOCUS) Lab, Continental-NTU Corporate Lab, Nanyang Technological University, Feb 2022 - Present [cite: 5, 6]
+    * Duties include: Conduct extensive research on the generalization of deep reinforcement learning techniques. Conduct research on LLM agents and LLM reasoning. Supervisor: Prof. Tianwei Zhang. [cite: 5, 6]
+* Research Assistant, Computational Intelligence Lab, School of Computer Science and Engineering, Nanyang Technological University, Apr 2017 - Jul 2017 [cite: 7]
+    * Duties included:  Supervisor: Prof. Sinno Jialin Pan. [cite: 7]
+* Project Officer, Rapid-Rich Object Search (ROSE) Lab, School of Electrical and Electronic Engineering, Nanyang Technological University, Aug 2016 - Apr 2017 [cite: 8]
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language: Python, C/C++ [cite: 22]
+* Library and Framework: PyTorch, Jax, Tensorflow [cite: 22]
 
 Publications
 ======
@@ -47,7 +36,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -57,8 +46,8 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer: ICML, NeurIPS, ICLR, ACL ARR, AISTATS, ICRA, The WebConf [cite: 22]
