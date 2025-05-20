@@ -22,9 +22,9 @@ repository               : "jianda-chen/jianda-chen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Picture3_profile.jpg"
   name             : "Jianda Chen"
-  pronouns         : "he/him"  
+  pronouns         : # "he/him"  
   bio              : "RL & LLMs Researcher"
   location         : "Singapore"
   employer         : "Nanyang Technological University"
