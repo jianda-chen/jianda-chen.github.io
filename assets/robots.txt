@@ -1,7 +1,9 @@
 ---
 permalink: /robots.txt
+layout: null
 ---
 User-agent: *
 Allow: /
+Crawl-delay: 1
 
 Sitemap: {{ site.url }}/sitemap.xml
